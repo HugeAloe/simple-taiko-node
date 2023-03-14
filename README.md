@@ -4,7 +4,7 @@
 
 Start your Taiko node with a one line command.
 
-## Prerequisite
+## Prerequisit
 
 - [Docker](https://docs.docker.com/engine/install/) is installed and running
 
